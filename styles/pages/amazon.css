@@ -154,3 +154,8 @@
   padding: 8px;
   border-radius: 50px;
 }
+
+.js-products-grid {
+  display: grid;  
+  grid-template-columns: repeat(8, 1fr);
+}
